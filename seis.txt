@@ -1,0 +1,4 @@
+ESTE LO ESCRIBE LOLA
+PEPE
+
+Clase que calcula nóminas
